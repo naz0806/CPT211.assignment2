@@ -200,6 +200,20 @@ a.linkhdr:hover{
     transition-property: all;
 }
 
+#section2{
+    margin: 0;
+    margin-left:0;
+    padding: 2vw;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    background-color: #f4e7f7e1;
+    text-align: justify;
+    transition-delay: 50ms;
+    transition-duration: 250ms;
+    transition-property: all;
+}
+
 .sectionbox{
     background-color: #f8f8f8;
     box-shadow: 2px 4px 10px #e0dfdf;
@@ -356,7 +370,11 @@ a.linkNav{
     padding: 1vw;
     font-size: 1.4vw;
 }
-
+    
+#section2{
+    padding: 1vw;
+    font-size: 1.4vw;
+}
 .stitle{
     font-size: 40px;
 }
