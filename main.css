@@ -214,6 +214,20 @@ a.linkhdr:hover{
     transition-property: all;
 }
 
+#section3{
+    margin: 0;
+    margin-left:0;
+    padding: 2vw;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    background-color: #f4e7f7e1;
+    text-align: justify;
+    transition-delay: 50ms;
+    transition-duration: 250ms;
+    transition-property: all;
+}
+
 .sectionbox{
     background-color: #f8f8f8;
     box-shadow: 2px 4px 10px #e0dfdf;
@@ -383,6 +397,11 @@ a.linkNav{
     font-size: 2.4vw;
     line-height: 4vw;
 }
+    
+.stxt1{
+    font-size: 3.4vw;
+    line-height: 4vw;
+}    
 
 .content{
     display: block;
