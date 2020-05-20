@@ -272,8 +272,6 @@ a.linkhdr:hover{
     display: inline-block;
     position: relative;
     vertical-align: top;
-    height: 9.10cm;
-    width: 14.50cm;
     padding: 0;
     left: 4.5%;
     margin-top: 5vw;
@@ -283,35 +281,6 @@ a.linkhdr:hover{
    
 }
 
-.imgbox4{
-    display: inline-block;
-    position: relative;
-    vertical-align: top;
-    height: 2.50cm;
-    width: 14.50cm;
-    padding: 0;
-    left: 4.5%;
-    margin-top: 5vw;
-    margin-bottom: 5vw;
-    margin-left: 3vw;
-    margin-right: 0vw;
-   
-}
-
-.imgbox5{
-    display: inline-block;
-    position: relative;
-    vertical-align: top;
-    height: 4.02cm;
-    width: 14.50cm;
-    padding: 0;
-    left: 4.5%;
-    margin-top: 5vw;
-    margin-bottom: 5vw;
-    margin-left: 3vw;
-    margin-right: 0vw;
-   
-}
 
 
 .imgef{
